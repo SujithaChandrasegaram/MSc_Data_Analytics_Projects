@@ -1,3 +1,3 @@
-# vedema.github.io
+# [vedema.github.io](https://github.com/SujithaChandrasegaram/MSc_Data_Analytics_Projects)
 
-Week 0 setup completed by Vivian Edema
+This is my Data Analytics Portfolio of projects
