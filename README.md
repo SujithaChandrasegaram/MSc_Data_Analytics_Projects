@@ -1,2 +1,3 @@
-# MSc_Data_Analytics_Projects
-Portfolio Project
+# vedema.github.io
+
+Week 0 setup completed by Vivian Edema
